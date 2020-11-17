@@ -3,7 +3,7 @@ mainmenu:
   home:
     url: "/"
     text: "Research"
-    icon_class: "fa-home"
+    icon_class: "fa-graduation-cap"
   aboutme:
     url: "/team/"
     text: "Team"

@@ -14,12 +14,13 @@ date: 2014-10-19 23:51
         <div class="blog-short">
           <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
           <h5>{{post.venue}}</h5>
+          <h5>{{post.authors}}</h5>
   		<div>
            </div>
           {% if post.thumbnail %}
             <div class="imgcontainer col-xs-12 col-sm-5 col-md-5 col-lg-5">
               <img src="{{post.thumbnail}}"
-              alt="{{post.title}}"  class="pull-left img-responsive thumb img-thumbnail" />
+              alt="{{post.title}}" style="border: none;" class="pull-left img-responsive thumb img-thumbnail" />
             </div>
           {% endif %}
           <article class="excerpt">{{post.excerpt}}</article>

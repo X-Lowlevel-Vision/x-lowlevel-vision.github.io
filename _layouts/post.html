@@ -7,14 +7,15 @@ layout: default
       <div class="page">
 
         <header class="page-header">
-          <h3 class="page-title"><a href="{{page.url|prepend: site.baseurl}}">{{ page.title }}</a></h3>
+          <h2 class="page-title"><a href="{{page.url|prepend: site.baseurl}}">{{ page.title }}</a></h2>
           <div class="post-metadata">
-            <h5>{{ page.venue }}</h5>
-            <div> <i class="fa fa-tag"></i>
+            <h4>{{ page.venue }}</h4>
+            <h4>{{ page.authors }}</h4>
+            <!-- <div> <i class="fa fa-tag"></i>
                 {% for tag in page.tags %}
                   <span class="label label-tag">{{tag}}</span>
                 {% endfor %}
-            </div>
+            </div> -->
           </div>
 
         </header>

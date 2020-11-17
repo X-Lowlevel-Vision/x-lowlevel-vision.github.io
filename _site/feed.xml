@@ -5,16 +5,77 @@
     <description>Research works about interpreting and explaining low-level vision networks</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Nov 2020 10:29:18 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2020 10:29:18 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2020 18:41:02 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2020 18:41:02 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>Interpreting Super-Resolution Networks with Local Attribution Maps</title>
-        <description>&lt;p&gt;Image super-resolution (SR) techniques have been developing rapidly, benefiting from the invention of deep networks and its successive breakthroughs. However, it is acknowledged that deep learning and deep neural networks are difficult to interpret. SR networks inherit this mysterious nature and little works make attempt to understand them. In this paper, we perform attribution analysis of SR networks, which aims at finding the input pixels that strongly influence the SR results. We propose a novel attribution approach called local attribution map (LAM), which inherits the integral gradient method yet with two unique features. One is to use the blurred image as the baseline input, and the other is to adopt the progressive blurring function as the path function. Based on LAM, we show that: (1) SR networks with a wider range of involved input pixels could achieve better performance. (2) Attention networks and non-local networks extract features from a wider range of input pixels. (3) Comparing with the range that actually contributes, the receptive field is large enough for most deep networks. (4) For SR networks, textures with regular stripes or grids are more likely to be noticed, while complex semantics are difficult to utilize. Our work opens new directions for designing SR networks and interpreting low-level vision deep models.&lt;/p&gt;
+        <description>&lt;p&gt;SR networks are mysterious and little works make attempt to understand them. In this work, we perform attribution analysis of SR networks, which aims at finding the input pixels that strongly influence the SR results. We propose a novel attribution approach called local attribution map (LAM) to interpret SR networks. Our work opens new directions for designing SR networks and interpreting low-level vision deep models.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
+&lt;h3 id=&quot;local-attribution-maps-lam&quot;&gt;Local Attribution Maps (LAM)&lt;/h3&gt;
+
+&lt;p&gt;LAM is build based on the following &lt;strong&gt;Auxiliary Principles&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Interpreting local not global.&lt;/li&gt;
+  &lt;li&gt;Interpreting hard not simple.&lt;/li&gt;
+  &lt;li&gt;Interpreting features not pixels.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The framework of LAM:&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;/assets/img/lam/web_framework.png&quot; alt=&quot;framework&quot; style=&quot;border: none; width: 75%; align: center&quot; class=&quot;pull-center img-responsive thumb img-thumbnail&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;LAM inherits the integral gradient method yet with two unique features.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;We use the blurred image as the baseline input.&lt;/li&gt;
+  &lt;li&gt;We adopt a novel progressive blurring function as the path function.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;results&quot;&gt;Results&lt;/h3&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;/assets/img/lam/web_lam_results.png&quot; alt=&quot;framework&quot; style=&quot;border: none; width: 100%; align: center&quot; class=&quot;pull-center img-responsive thumb img-thumbnail&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;interesting-findings&quot;&gt;Interesting Findings&lt;/h3&gt;
+&lt;p&gt;Based on LAM, we have several interesting conclusions:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;SR networks with a wider range of involved input pixels could achieve better performance.&lt;/li&gt;
+  &lt;li&gt;Attention networks and non-local networks extract features from a wider range of input pixels.&lt;/li&gt;
+  &lt;li&gt;Comparing with the range that actually contributes, the receptive field is large enough for most deep networks.&lt;/li&gt;
+  &lt;li&gt;For SR networks, textures with regular stripes or grids are more likely to be noticed, while complex semantics are difficult to utilize.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;/assets/img/lam/web_area_of_interest.png&quot; alt=&quot;framework&quot; style=&quot;border: none; width: 100%; align: center&quot; class=&quot;pull-center img-responsive thumb img-thumbnail&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;More information please refer to our paper.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
+&lt;!-- - Paper (CVPR 2021) --&gt;
+&lt;ul&gt;
+  &lt;li&gt;Technical Report (arXiv)&lt;/li&gt;
+  &lt;li&gt;Technical Report (Full resolution)&lt;/li&gt;
+  &lt;li&gt;Colab Demo (Coming soon)&lt;/li&gt;
+  &lt;li&gt;Code on GitHub (Coming soon)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+&lt;p&gt;If you find our work inspiring, please cite our work:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{gu2020interpreting,
+  title   = {Interpreting Super-Resolution Networks with Local Attribution Maps},
+  author  = {Gu, Jinjin and Dong, Chao},
+  year    = {2020}
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;!-- ### Acknowledgement --&gt;
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/lam.html</link>
