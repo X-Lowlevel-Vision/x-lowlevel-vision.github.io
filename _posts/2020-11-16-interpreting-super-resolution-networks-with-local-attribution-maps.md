@@ -1,9 +1,11 @@
 ---
 layout: post
-tags: Super-Resolution Attribution-Analysis 
+tags: Super-Resolution Attribution-Analysis
+venue: Submitted
 date: 2020-11-16 00:00
 thumbnail: http://placehold.it/300x200
 title: Interpreting Super-Resolution Networks with Local Attribution Maps
+permalink: /lam.html
 published: true
 ---
 

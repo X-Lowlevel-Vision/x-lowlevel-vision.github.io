@@ -9,11 +9,7 @@ layout: default
         <header class="page-header">
           <h3 class="page-title"><a href="{{page.url|prepend: site.baseurl}}">{{ page.title }}</a></h3>
           <div class="post-metadata">
-            <div> <i class="fa fa-calendar"></i>
-              <time>
-                {{ page.date | date:'%A, %B %d, %Y'}}
-              </time>
-            </div>
+            <h5>{{ page.venue }}</h5>
             <div> <i class="fa fa-tag"></i>
                 {% for tag in page.tags %}
                   <span class="label label-tag">{{tag}}</span>
