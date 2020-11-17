@@ -1,0 +1,23 @@
+# Site settings
+title: Interpretable Low-Level Vision
+email: jinjin.gu@sydney.edu.au
+description: ""
+logo_location: ""
+
+#baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+#Other Global Configuration
+exclude: ['README.md']
+
+excerpt_separator: <!--more-->
+
+#show the jumbotron header on index page
+show_blog_header: true
