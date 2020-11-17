@@ -1,7 +1,7 @@
 # Site settings
 title: Interpretable Low-Level Vision
 email: jinjin.gu@sydney.edu.au
-description: ""
+description: "Research works about interpreting and explaining low-level vision networks"
 logo_location: ""
 
 #baseurl: "" # the subpath of your site, e.g. /blog/
