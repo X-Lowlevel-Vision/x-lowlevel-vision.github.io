@@ -5,8 +5,8 @@
     <description>Research works about interpreting and explaining low-level vision networks</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 17 Nov 2020 18:41:02 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2020 18:41:02 +0800</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2020 23:15:18 +0800</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2020 23:15:18 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -56,12 +56,22 @@
 
 &lt;p&gt;More information please refer to our paper.&lt;/p&gt;
 
+&lt;h3 id=&quot;try-our-online-demo-on-colab&quot;&gt;Try Our Online Demo on Colab!&lt;/h3&gt;
+
+&lt;p&gt;We build an online demo hosted on Google Colab. You can try LAM attribution results to see its interesting results.&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;img src=&quot;/assets/img/lam/lam-demo.png&quot; alt=&quot;framework&quot; style=&quot;width: 100%; align: center&quot; class=&quot;pull-center img-responsive thumb img-thumbnail&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing&quot;&gt;Try Here!&lt;/a&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
 &lt;!-- - Paper (CVPR 2021) --&gt;
 &lt;ul&gt;
   &lt;li&gt;Technical Report (arXiv)&lt;/li&gt;
   &lt;li&gt;Technical Report (Full resolution)&lt;/li&gt;
-  &lt;li&gt;Colab Demo (Coming soon)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing&quot;&gt;Colab Demo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Code on GitHub (Coming soon)&lt;/li&gt;
 &lt;/ul&gt;
 

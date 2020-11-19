@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Super-Resolution Attribution-Analysis
-authors: "Jinjin Gu, Chao Dong"
+authors: "<a href='http://www.jasongt.com/'>Jinjin Gu</a>, <a href='https://xpixel.group/index.html'>Chao Dong</a>"
 venue: Submitted
 date: 2020-11-16 00:00
 thumbnail: /assets/img/lam/web_cover.png
@@ -50,11 +50,23 @@ Based on LAM, we have several interesting conclusions:
 
 More information please refer to our paper.
 
+
+### Try Our Online Demo on Colab!
+
+We build an online demo hosted on Google Colab. You can try LAM attribution results to see its interesting results.
+
+<div style="text-align: center;">
+<img src="/assets/img/lam/lam-demo.png" alt="framework" style="width: 100%; align: center" class="pull-center img-responsive thumb img-thumbnail"/>
+</div>
+
+[Try Here!](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
+
+
 ### Resources
 <!-- - Paper (CVPR 2021) -->
 - Technical Report (arXiv)
 - Technical Report (Full resolution)
-- Colab Demo (Coming soon)
+- [Colab Demo](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 - Code on GitHub (Coming soon)
 
 
