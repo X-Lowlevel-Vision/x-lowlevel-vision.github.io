@@ -5,8 +5,8 @@
     <description>Research works about interpreting and explaining low-level vision networks</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 19 Nov 2020 23:15:18 +0800</pubDate>
-    <lastBuildDate>Thu, 19 Nov 2020 23:15:18 +0800</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2020 13:28:43 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2020 13:28:43 +0800</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -70,7 +70,7 @@
 &lt;!-- - Paper (CVPR 2021) --&gt;
 &lt;ul&gt;
   &lt;li&gt;Technical Report (arXiv)&lt;/li&gt;
-  &lt;li&gt;Technical Report (Full resolution)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Technical Report (Full resolution)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing&quot;&gt;Colab Demo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Code on GitHub (Coming soon)&lt;/li&gt;
 &lt;/ul&gt;
@@ -84,8 +84,6 @@
   year    = {2020}
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;!-- ### Acknowledgement --&gt;
 </description>
         <pubDate>Mon, 16 Nov 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/lam.html</link>
