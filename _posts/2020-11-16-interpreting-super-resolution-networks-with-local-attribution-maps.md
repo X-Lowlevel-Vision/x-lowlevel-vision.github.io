@@ -56,7 +56,7 @@ More information please refer to our paper.
 We build an online demo hosted on Google Colab. You can try LAM attribution results to see its interesting results.
 
 <div style="text-align: center;">
-<img src="/assets/img/lam/lam-demo.png" alt="framework" style="width: 100%; align: center" class="pull-center img-responsive thumb img-thumbnail"/>
+<img src="/assets/img/lam/lam_web.gif" alt="framework" style="width: 100%; align: center" class="pull-center img-responsive thumb img-thumbnail"/>
 </div>
 
 [Try Here!](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
