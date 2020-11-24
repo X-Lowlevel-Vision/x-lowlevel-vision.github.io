@@ -2,7 +2,7 @@
 layout: post
 tags: Super-Resolution Attribution-Analysis
 authors: "<a href='http://www.jasongt.com/'>Jinjin Gu</a>, <a href='https://xpixel.group/index.html'>Chao Dong</a>"
-venue: Submitted
+venue: "arXiv.2011.11036 preprint"
 date: 2020-11-16 00:00
 thumbnail: /assets/img/lam/web_cover.png
 title: Interpreting Super-Resolution Networks with Local Attribution Maps
@@ -64,8 +64,8 @@ We build an online demo hosted on Google Colab. You can try LAM attribution resu
 
 ### Resources
 <!-- - Paper (CVPR 2021) -->
-- Technical Report (arXiv)
-- [Technical Report (Full resolution)]()
+- [Technical Report (arXiv)](https://arxiv.org/abs/2011.11036)
+- [Technical Report (Full resolution)](assets/pdfs/LAM-full-resolution.pdf)
 - [Colab Demo](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 - Code on GitHub (Coming soon)
 
