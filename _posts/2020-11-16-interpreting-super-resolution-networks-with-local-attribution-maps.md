@@ -65,7 +65,7 @@ We build an online demo hosted on Google Colab. You can try LAM attribution resu
 ### Resources
 <!-- - Paper (CVPR 2021) -->
 - [Technical Report (arXiv)](https://arxiv.org/abs/2011.11036)
-- [Technical Report (Full resolution)](assets/pdfs/LAM-full-resolution.pdf)
+- [Technical Report (Full resolution, 50Mb)](assets/pdfs/LAM-full-resolution.pdf)
 - [Colab Demo](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 - Code on GitHub (Coming soon)
 
