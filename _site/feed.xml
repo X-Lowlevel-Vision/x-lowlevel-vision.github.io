@@ -5,8 +5,8 @@
     <description>Research works about interpreting and explaining low-level vision networks</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 01 Mar 2021 22:34:46 +0800</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 22:34:46 +0800</lastBuildDate>
+    <pubDate>Mon, 01 Mar 2021 22:50:56 +0800</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 22:50:56 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -69,20 +69,22 @@
 &lt;h3 id=&quot;resources&quot;&gt;Resources&lt;/h3&gt;
 &lt;!-- - Paper (CVPR 2021) --&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;&quot;&gt;Paper CVPR2021&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Paper CVPR2021 (Coming soon)&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://arxiv.org/abs/2011.11036&quot;&gt;Technical Report (arXiv)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;assets/pdfs/LAM-full-resolution.pdf&quot;&gt;Technical Report (Full resolution, 50Mb)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing&quot;&gt;Colab Demo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Code on GitHub (Coming soon)&lt;/li&gt;
+  &lt;li&gt;Extended Version (Coming soon)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
 &lt;p&gt;If you find our work inspiring, please cite our work:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@article{gu2020interpreting,
-  title   = {Interpreting Super-Resolution Networks with Local Attribution Maps},
-  author  = {Gu, Jinjin and Dong, Chao},
-  year    = {2020}
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@inproceedings{gu2021interpreting,
+  title     = {Interpreting Super-Resolution Networks with Local Attribution Maps},
+  author    = {Gu, Jinjin and Dong, Chao},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year      = {2021}
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>

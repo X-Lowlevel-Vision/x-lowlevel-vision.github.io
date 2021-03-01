@@ -64,20 +64,22 @@ We build an online demo hosted on Google Colab. You can try LAM attribution resu
 
 ### Resources
 <!-- - Paper (CVPR 2021) -->
-- [Paper CVPR2021]()
+- Paper CVPR2021 (Coming soon)
 - [Technical Report (arXiv)](https://arxiv.org/abs/2011.11036)
 - [Technical Report (Full resolution, 50Mb)](assets/pdfs/LAM-full-resolution.pdf)
 - [Colab Demo](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 - Code on GitHub (Coming soon)
+- Extended Version (Coming soon)
 
 
 ### Citation
 If you find our work inspiring, please cite our work:
 
 ```
-@article{gu2020interpreting,
-  title   = {Interpreting Super-Resolution Networks with Local Attribution Maps},
-  author  = {Gu, Jinjin and Dong, Chao},
-  year    = {2020}
+@inproceedings{gu2021interpreting,
+  title     = {Interpreting Super-Resolution Networks with Local Attribution Maps},
+  author    = {Gu, Jinjin and Dong, Chao},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year      = {2021}
 }
 ```
