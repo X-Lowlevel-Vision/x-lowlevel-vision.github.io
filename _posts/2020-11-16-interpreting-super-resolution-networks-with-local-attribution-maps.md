@@ -70,6 +70,9 @@ We build an online demo hosted on Google Colab. You can try LAM attribution resu
 - [Colab Demo](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 - Code on GitHub (Coming soon)
 - Extended Version (Coming soon)
+- Video [[Youtube]](https://youtu.be/53Zmn2QkoCw)[[Bilibili]](https://www.bilibili.com/video/BV1Bg411g764/)
+- Talk at Extreme Mart, Shenzhen, 2021.3. <a href="https://www.bilibili.com/video/BV1o54y187vG?p=3&share_source=copy_web">bilibili (CN)</a>
+- Talk at CSIG-Guangdong Province CVPR 2021 Online Academic Report, 2021.5. <a href="https://www.bilibili.com/video/BV1hf4y1a7Re?share_source=copy_web">bilibili (CN)</a>
 
 
 ### Citation
