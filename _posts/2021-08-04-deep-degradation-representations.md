@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: Super-Resolution
-authors: "Yihao Liu*, Anran Liu*, <a href='http://www.jasongt.com/'>Jinjin Gu</a>, Zhipeng Zhang, Wenhao Wu, Yu Qiao, <a href='https://xpixel.group/index.html'>Chao Dong</a>"
+authors: "Yihao Liu<sup>*</sup>, Anran Liu<sup>*</sup>, <a href='http://www.jasongt.com/'>Jinjin Gu</a>, Zhipeng Zhang, Wenhao Wu, Yu Qiao, <a href='https://xpixel.group/index.html'>Chao Dong</a>"
 venue: "arXiv, 2021"
 date: 2021-08-04 00:00
 thumbnail: /assets/img/ddr/web_cover.png
