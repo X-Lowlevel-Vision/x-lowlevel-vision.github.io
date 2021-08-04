@@ -10,7 +10,7 @@ permalink: /faig.html
 published: true
 ---
 
-Recent blind super-resolution (SR) methods typically consist of two branches, one for degradation prediction and the other for conditional restoration. However, our experiments show that a one-branch network can achieve comparable performance to the two-branch scheme. Then we wonder: how can one-branch networks automatically learn to distinguish degradations? To find the answer, we propose a new diagnostic tool – Filter Attribution method based on Integral Gradient (FAIG), which aims at finding the most discriminative filters instead of input pixels/features for degradation removal in blind SR networks.  Our findings can not only help us better understand network behaviors inside one-branch blind SR networks, but also provide guidance on designing more efficient architectures and diagnosing networks for blind SR.
+Recent blind super-resolution methods typically consist of two branches, one for degradation prediction and the other for conditional restoration. Our experiments show that a one-branch network can achieve comparable performance to the two-branch scheme. How can one-branch networks automatically learn to distinguish degradations? We propose a new diagnostic tool -- Filter Attribution method based on Integral Gradient (FAIG), which aims at finding the most discriminative filters instead of input pixels/features for degradation removal in blind SR networks. Our findings can not only help us better understand network behaviors inside one-branch blind SR networks, but also provide guidance on designing more efficient architectures and diagnosing networks for blind SR.
 
 <!--more-->
 
