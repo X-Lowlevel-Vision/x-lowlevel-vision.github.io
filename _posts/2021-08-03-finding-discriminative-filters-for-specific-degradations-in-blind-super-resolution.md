@@ -2,7 +2,7 @@
 layout: post
 tags: Super-Resolution Attribution-Analysis
 authors: "Liangbin Xie<sup>*</sup>, <a href='https://xinntao.github.io'>Xintao Wang<sup>*</sup></a>, Zhongang Qi, <a href='https://xpixel.group/index.html'>Chao Dong</a>, Ying Shan"
-venue: "arXiv, 2021"
+venue: "Neural Information Processing Systems (<b>NeurIPS</b>), Spotlight, 2021"
 date: 2021-08-03 00:00
 thumbnail: assets/img/faig/web_cover.png
 title: Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution
