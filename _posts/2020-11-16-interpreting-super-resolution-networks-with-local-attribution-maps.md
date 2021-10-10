@@ -64,8 +64,8 @@ We build an online demo hosted on Google Colab. You can try LAM attribution resu
 
 ### Resources
 <!-- - Paper (CVPR 2021) -->
-- Paper CVPR2021 (Coming soon)
-- [Technical Report (arXiv)](https://arxiv.org/abs/2011.11036)
+- [Newest Version (arXiv)](https://arxiv.org/abs/2011.11036)
+- [Paper CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_Interpreting_Super-Resolution_Networks_With_Local_Attribution_Maps_CVPR_2021_paper.pdf)
 - [Technical Report (Full resolution, 50Mb)](assets/pdfs/LAM-full-resolution.pdf)
 - [Colab Demo](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 - Code on GitHub (Coming soon)
@@ -73,6 +73,8 @@ We build an online demo hosted on Google Colab. You can try LAM attribution resu
 - Video [[Youtube]](https://youtu.be/53Zmn2QkoCw)[[Bilibili]](https://www.bilibili.com/video/BV1Bg411g764/)
 - Talk at Extreme Mart, Shenzhen, 2021.3. <a href="https://www.bilibili.com/video/BV1o54y187vG?p=3&share_source=copy_web">bilibili (CN)</a>
 - Talk at CSIG-Guangdong Province CVPR 2021 Online Academic Report, 2021.5. <a href="https://www.bilibili.com/video/BV1hf4y1a7Re?share_source=copy_web">bilibili (CN)</a>
+- Invited talk at Tsinghua AI TIME Online Academic Report, 2021.7. <a href="https://www.bilibili.com/video/BV1hq4y1H7dY?share_source=copy_web">bilibili (CN)</a>
+- Invited Talk at Student Forum on Frontiers of AI (SFFAI), Shenzhen, 2021.9. [bilibili (CN)](https://www.bilibili.com/video/BV13M4y137Qu?share_source=copy_web) [Slides](https://www.jasongt.com/assets/pdf/9.26-InterpretationSR.pdf)
 
 
 ### Citation
@@ -80,9 +82,10 @@ If you find our work inspiring, please cite our work:
 
 ```
 @inproceedings{gu2021interpreting,
-  title     = {Interpreting Super-Resolution Networks with Local Attribution Maps},
-  author    = {Gu, Jinjin and Dong, Chao},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year      = {2021}
+  title={Interpreting Super-Resolution Networks with Local Attribution Maps},
+  author={Gu, Jinjin and Dong, Chao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9199--9208},
+  year={2021}
 }
 ```
